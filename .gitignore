@@ -1,1 +1,6 @@
-".env" 
+.env
+vector_index/
+__pycache__/
+*.pyc
+*.csv
+*.vscode
