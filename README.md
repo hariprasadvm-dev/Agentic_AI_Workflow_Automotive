@@ -161,10 +161,5 @@ CommunicatorAgent    →  Groq LLM-powered professional email
 - Mobile-friendly UI
 - IoT/telematics real-time data feed
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 
